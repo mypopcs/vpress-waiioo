@@ -1,0 +1,14 @@
+{
+  "name": "vpress-waiioo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "joril",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs.build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress": "^1.5.4"
+  }
+}
